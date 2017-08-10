@@ -6,6 +6,12 @@ A small joke-clone of Sokkoban with a bomberman twist.
 It was made as an excuse to play around with Javascript for the first time, and try out the p5 processing library.
 It is purely a playing around project and I do not own any of the images used, nor do I intend to sell it in any way.
 
+
+<img src=http://i.imgur.com/IyEbTgY.png height="250">
+
+
+<img src=http://i.imgur.com/FdwEo7P.png height="250">
+
 # What does it do
 
 Fire up the Sokko-Palhas file and hopefully it will open your browser to be ready to play.
